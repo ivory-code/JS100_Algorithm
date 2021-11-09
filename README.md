@@ -15,3 +15,5 @@
 - RunCode 하여 출력탭에서 코드 동작 확인.
   - **Visual Studio Code**
     - **<span style="color: #ffa500">^(Shift + 6) + ⌥(Option) + N</span>**
+
+**❗️ &nbsp;&nbsp;원활한 풀이과정 설명을 위해 수정된 요소들이 있습니다.**
