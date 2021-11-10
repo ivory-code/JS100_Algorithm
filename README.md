@@ -6,7 +6,7 @@
 
 ### **🔥&nbsp;&nbsp;JavaScript 100제**
 
-- **알고리즘 문제를 학습하기 위해 생성한 repo 입니다.**
+- **알고리즘 및 JavaScript에 관련된 지식을 학습하기 위해 생성한 repo 입니다.**
 - 문제를 직접 해결하고 풀이과정을 담았습니다.
 
 ### **🛠 &nbsp;&nbsp;repo file 참고**
