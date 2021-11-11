@@ -9,7 +9,7 @@
 - **알고리즘 및 JavaScript에 관련된 지식을 학습하기 위해 생성한 repo 입니다.**
 - 문제를 직접 해결하고 풀이과정을 담았습니다.
 
-### **🛠 &nbsp;&nbsp;repo file 참고**
+### **🛠&nbsp;&nbsp;repo file 참고**
 
 - 파일은 **<span style="color: #ffa500">JS100 디렉토리</span>** - **<span style="color: #ffa500">문제번호.js</span>** 형식으로 작성됨.
 - RunCode 하여 출력탭에서 코드 동작 확인.
