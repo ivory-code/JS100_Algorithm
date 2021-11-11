@@ -16,4 +16,4 @@
   - **Visual Studio Code**
     - **<span style="color: #ffa500">⌃(Control) + ⌥(Option) + N</span>**
 
-**❗️ &nbsp;&nbsp;원활한 풀이과정 설명을 위해 수정된 요소들이 있습니다.**
+**❗️&nbsp;&nbsp;원활한 풀이과정 설명을 위해 수정된 요소들이 있습니다.**
