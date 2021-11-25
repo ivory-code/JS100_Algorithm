@@ -32,7 +32,7 @@ const thirdSolution = (string) => {
   let result = string.split(" ").reverse();
 
   for (let i = 0; i < result.length; i++) {
-    result[i] = parseInt(result[i]);
+    result[i] = parseInt(result[i], 10);
   }
 
   return console.log(result);

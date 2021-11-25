@@ -17,11 +17,10 @@
 const solution = (score) => {
   let splitScore = score.split(" ");
   let sumScore = 0;
-  for(let i = 0; i < splitScore.length; i++){
-      sumScore += parseInt(splitScore[i])
+  for (let i = 0; i < splitScore.length; i++) {
+    sumScore += parseInt(splitScore[i], 10);
   }
-  return console.log(Math.floor(sumScore / splitScore.length))
-}
+  return console.log(Math.floor(sumScore / splitScore.length));
+};
 
-solution("20 30 40")
-
+solution("20 30 40");
