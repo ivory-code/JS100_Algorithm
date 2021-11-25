@@ -23,7 +23,6 @@
 */
 
 // 1.
-
 // 각각 주어진 인자들은 제한 무게, 친구들의 숫자, 각각의 몸무게
 const solution = (weight, person, input) => {
   let limit = weight; // limit라는 임의의 변수에 현재 무게값을 할당
