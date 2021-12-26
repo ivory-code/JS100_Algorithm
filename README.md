@@ -17,4 +17,4 @@
     - **<span style="color: #ffa500">⌃(Control) + ⌥(Option) + N</span>** (Mac)
     - **<span style="color: #ffa500">Ctrl + Alt + N</span>** (Windows)
 
-**❗️&nbsp;&nbsp;원활한 풀이과정 설명을 위해 수정된 요소들이 있습니다.**
+**❗️&nbsp;&nbsp;원본에서 수정된 요소들이 있습니다.**
